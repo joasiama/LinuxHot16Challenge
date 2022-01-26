@@ -55,8 +55,13 @@ LinuxHot16ChallangeFreestyle.txt
 
 # HOT 16
 
-# 1. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 1. cd
+# cd dirname – zmienia aktualny katalog na 'dirname'
+# cd dir1/dir2/dir3 – wchodzi do katalogu 'dir3', który jest w katalogu 'dir2', który jest w 'dir1'
+# cd   – z dowolnego miejsca, zmienia katalog na domowy
+# cd .. – przechodzi do katalogu o jeden wyższego w drzewie katalogów niż obecny
+# cd /home/dir – z dowolnego miejsca, przechodzi do katalogu zaczynając od początku drzewa: /
+# cd -  – przechodzi do poprzedniego katalogu
 
 # 2. komenda
 # Opis... - czyli co to robi. Krótki, w jednej linijce.
